@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Splokhande
+- 👀 I’m interested in Mobile app development
+- 🌱 I’m currently learning Flutter, nodejs, MySQl, PostgreSQL
+- 📫 How to reach me => Email id: 7208851286sv@gmail.com
